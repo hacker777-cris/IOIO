@@ -46,7 +46,7 @@ const PrivacyPolicy = () => {
           </motion.div>
 
           <motion.div variants={itemVariants} className="mb-8 text-gray-500">
-            Last Updated: August 1, 2025
+            Last Updated: April 1, 2025
           </motion.div>
 
           <div className="bg-white rounded-2xl shadow-sm overflow-hidden">
@@ -306,4 +306,3 @@ const PrivacyPolicy = () => {
 };
 
 export default PrivacyPolicy;
-
